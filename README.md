@@ -216,4 +216,4 @@ Joulemeter is offered as a full free version, providing all features and updates
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-08 21:56:36 UTC
+**Last updated:** 2026-10-09 01:58:22 UTC
